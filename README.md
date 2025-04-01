@@ -1,5 +1,5 @@
 ## Hi there 👋
-I Don't know So much, so Let's Learn then build and grow 🤖
+Let's Learn then build and grow 🤖
 
 <!--
 **AlokaWarnakula/AlokaWarnakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
