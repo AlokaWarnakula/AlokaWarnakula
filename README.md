@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Aloka Warnakula!<br><br>🎓 Currently Studying:I'm a student at Sri Lanka Institute of Information Technology (SLIIT), pursuing a BSc (Hons) in Information Technology specializing in Software Engineering.<br><br>💡 About Me:<br><br>"Let's learn, then build, and grow."<br><br>I’m passionate about learning new technologies and sharing my journey with others. I enjoy working on projects that challenge my problem-solving skills and improve my understanding of programming concepts.
 
-🧠💻This is little challenge for you👨🏻‍💻
+🧠💻This is little challenge for you👨🏻‍💻\n
 This is little encrypted code i create using python when i was learning the language. IF you can crack it send me message, Let's be friends
 encrypted code --> 🔐146201132216210148150214205221200148218215132165205201201201132201197210132214169132165145183150210212165132173214179145132132209201146201165197201187208202150152197132212171148197132218173132208174132132202210197132201216132165205132208176205153197214200132214176210162208168132177132197174
 
