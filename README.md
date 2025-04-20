@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aloka Warnakula!<br><br>🎓 Currently Studying:I'm a student at Sri Lanka Institute of Information Technology (SLIIT), pursuing a BSc (Hons) in Information Technology specializing in Software Engineering.<br><br>💡 About Me:<br><br>"Let's learn, then build, and grow."<br><br>I’m passionate about learning new technologies and sharing my journey with others. I enjoy working on projects that challenge my problem-solving skills and improve my understanding of programming concepts.
+👋 Hi, I'm Aloka Warnakula!<br><br>🎓 Currently Studying:I'm a student at Sri Lanka Institute of Information Technology (SLIIT), pursuing a BSc (Hons) in Information Technology specializing in Software Engineering.<br><br>💡 About Me:<br><br>"Let's learn, then build, and grow together."<br><br>I’m passionate about learning new technologies and sharing my journey with others. I enjoy working on projects that challenge my problem-solving skills and improve my understanding of programming concepts.
 
 🧠💻This is little challenge for you👨🏻‍💻
 
