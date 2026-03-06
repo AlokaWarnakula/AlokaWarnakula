@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+Let's+learn%2C+build%2C+and+grow+together;%F0%9F%A7%A0+AI+%7C+Machine+Learning+%7C+Deep+Learning;%F0%9F%92%BB+Founder+of+KageLoom+%7C+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Let's+learn%2C+build%2C+and+grow+together+%F0%9F%94%A5;AI+%7C+Machine+Learning+%7C+Deep+Learning+%F0%9F%A7%A0;Founder+of+KageLoom+%7C+Creator+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,9 +22,11 @@
 <br>
 
 <!-- About Me Section -->
-<img align="right" alt="Raiden Shogun" width="300" src="./raiden-shogun.png">
-
 ## ⚡ About Me
+
+<table>
+<tr>
+<td width="65%">
 
 - 🎓 **BSc (Hons) in Information Technology** — Specializing in **Artificial Intelligence** @ **SLIIT**
 - 🚀 **Founder of KageLoom** — I like to create things that have freedom within
@@ -32,7 +34,12 @@
 - 🧠 Love solving complex problems & building smart solutions
 - 🔐 Fun fact: I create encryption challenges for fun — try mine below!
 
-<br clear="both">
+</td>
+<td width="35%" align="center">
+  <img alt="Raiden Shogun" width="280" src="./raiden-shogun.png"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,6 +83,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
