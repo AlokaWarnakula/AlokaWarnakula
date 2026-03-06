@@ -1,12 +1,12 @@
-<![CDATA[<!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Aloka%20Warnakula&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver%20%7C%20Founder%20%7C%20Creator&descAlignY=55&descSize=16&descColor=00d4ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Aloka%20Warnakula&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Founder%20of%20KageLoom%20%7C%20Creator&descAlignY=55&descSize=16&descColor=00d4ff" width="100%"/>
 </div>
 
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+Let's+learn%2C+build%2C+and+grow+together;%F0%9F%A7%A0+AI+%7C+Machine+Learning+%7C+Deep+Learning;%F0%9F%92%BB+Full+Stack+Developer+%7C+Founder+%7C+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+Let's+learn%2C+build%2C+and+grow+together;%F0%9F%A7%A0+AI+%7C+Machine+Learning+%7C+Deep+Learning;%F0%9F%92%BB+Founder+of+KageLoom+%7C+Creator" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,29 +22,22 @@
 <br>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Raiden Shogun" width="300" src="./raiden-shogun.png">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+## ⚡ About Me
 
-🎓 **BSc (Hons) in IT** — Specializing in **Software Engineering**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ Sri Lanka Institute of Information Technology (SLIIT)
-
-🤖 Currently diving deep into **Artificial Intelligence & Machine Learning**
-
-🌱 Always exploring new frameworks, libraries & tools
-
-🧠 Love solving complex problems & building smart solutions
-
-⚡ Fun fact: I create encryption challenges for fun — try mine below!
+- 🎓 **BSc (Hons) in Information Technology** — Specializing in **Artificial Intelligence** @ **SLIIT**
+- 🚀 **Founder of KageLoom** — I like to create things that have freedom within
+- 🤖 Passionate about **AI, Machine Learning & Deep Learning**
+- 🧠 Love solving complex problems & building smart solutions
+- 🔐 Fun fact: I create encryption challenges for fun — try mine below!
 
 <br clear="both">
 
 ---
 
-<!-- Tech Stack -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Arsenal
+## 🤖 AI / ML
 
-<h3 align="center">🤖 AI / ML</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -56,7 +49,8 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-<h3 align="center">🌐 Frontend</h3>
+## 🌐 Frontend
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -66,7 +60,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
+## ⚙️ Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -77,7 +72,8 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
 </p>
 
-<h3 align="center">🗄️ Database & Tools</h3>
+## 🗄️ Database & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -89,8 +85,7 @@
 
 ---
 
-<!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> &nbsp;GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlokaWarnakula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00d4ff" alt="GitHub Stats"/>
@@ -101,15 +96,13 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokaWarnakula&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&layout=compact" alt="Top Languages"/>
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlokaWarnakula&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- Top Contributed Repo -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Top Contributions
+## 🚀 Top Contributions
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AlokaWarnakula&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" alt="Top Contributed Repo"/>
@@ -117,8 +110,7 @@
 
 ---
 
-<!-- Encryption Challenge -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="30" /> &nbsp;Can You Crack This? 🧠💻
+## 🔐 Can You Crack This?
 
 <div align="center">
   <img src="https://img.shields.io/badge/DIFFICULTY-BEGINNER-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Difficulty"/>
@@ -149,12 +141,9 @@
 
 </details>
 
-<br>
-
 ---
 
-<!-- Connect With Me -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="30" /> &nbsp;Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aloka-warnakula-550255358/" target="_blank">
@@ -173,14 +162,12 @@
 
 <br>
 
-<!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <br>
 
-<!-- Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -191,4 +178,3 @@
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=120&section=footer" width="100%"/>
-]]>
